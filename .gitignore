@@ -1,0 +1,8 @@
+# Compilacao e arquivos locais
+build/
+*.o
+*.elf
+*.bin
+*.exe
+.env
+.DS_Store
